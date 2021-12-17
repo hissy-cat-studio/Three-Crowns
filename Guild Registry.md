@@ -12,7 +12,7 @@ Listed in this document is a list of the major guilds in Three Crowns along with
 8. blacksmiths
 9. weaponsmiths
 10. armor smiths
-11. magic
+11. magic/wizards
 12. bankers
 13. blubec breeders
 14. shipwrights
@@ -27,7 +27,7 @@ Listed in this document is a list of the major guilds in Three Crowns along with
 23. small shop/business/street vendors
 24. merchant marines
 25. healers
-26. wizards
+26. 
 27. brick layers/builders
 28. 
 
