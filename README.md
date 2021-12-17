@@ -1,6 +1,11 @@
 # Three-Crowns
 The Epic Solo Fantasy RPG - choose your own adventure game built ontop of the Irownsworn table top rpg system.
 
+https://www.ironswornrpg.com/licensing
+
+https://docs.google.com/document/d/11ypqt6GfLuBhGDJuBGWKlHa-Ru48Tf3G_6zbrYKmXgY/edit
+
+
 # Lore
 
 The Great Walled City-State of Kaztani, nestled at the southern tip of the Yodezil continent is home to tens of millions of citizens and is ruled by King Ozla "The Old Lion".
