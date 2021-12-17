@@ -19,5 +19,15 @@ Listed in this document is a list of the major guilds in Three Crowns along with
 15. brewers
 16. thieves
 17. carnival
-18. 
+18. Sell Swords
+19. bakers/cooks
+20. various schools 
+21. beggars
+22. artisans/actors
+23. small shop/business/street vendors
+24. merchant marines
+25. healers
+26. wizards
+27. brick layers/builders
+28. 
 
