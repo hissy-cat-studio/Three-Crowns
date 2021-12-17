@@ -1,5 +1,5 @@
 # Three-Crowns
-The Epic Solo Fantasy RPG - choose your own adventure game
+The Epic Solo Fantasy RPG - choose your own adventure game built ontop of the Irownsworn table top rpg system.
 
 # Lore
 
@@ -43,9 +43,10 @@ Note: Since her birth, Amaya, the Queen Daughter has won the heart of the Old Li
 King Qzla declares the Queen Daughter to be the Last Queen of Kaztani.
 
 The three male heirs will each be given the Title of "Crown of Kaztani" and upon the Old Lion's death, The Queen Daughter and the Three Crowns will each inherent a section of the city to rule over.
+
 The ruling power will be shared amongst the Old Lion’s four children. 
 
-The Queen Daughter "The Last Queen" : Beautiful, Intelligent, Beloved by all in the empire, Fair and Just. 
+The Queen Daughter "The Last Queen" : Beautiful, Intelligent, Beloved by all in the empire, Fair and Just. The Queen controls... (needs something to ccontrol)
 
 The First Born : The Crown Lion. Strong, Forceful. House Lion controls the military might of the empire abroad, and the largest military within the city walls, alomst 2 times as strong as the other three houses combined.
 
@@ -62,7 +63,7 @@ The Queen Daughter and her court will forever have free passage through out the 
 
 *** need to add more ***
 
-The game takes place in the year 968 tc.(??? tc...lol)
+
 
 
 Copyright Hissy Cat Studio 2019
