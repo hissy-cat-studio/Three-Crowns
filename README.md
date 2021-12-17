@@ -3,9 +3,9 @@ The Epic Solo Fantasy RPG - choose your own adventure game
 
 # Lore
 
-The Great Walled City-State of Kaztani, nestled at the southern tip of the Yodezil continent is home to millions of citizens is ruled by King Ozla "The Old Lion".
+The Great Walled City-State of Kaztani, nestled at the southern tip of the Yodezil continent is home to tens of millions of citizens and is ruled by King Ozla "The Old Lion".
 
-King Ozla, who is now in his later years, desperately desires an heir to his throne, has recently married his third Queen Wife, Anahita. King Ozla's first two Queen Wives died during labor along with unborn male heirs. It has been said, the sheer virility of the Old Lion is a curse and that no woman in all of Kaztani could bear the Old Lion's heir.
+King Ozla, who is now in his later years, desperately desires an heir to his throne, has recently married his third Queen Wife, Anahita. King Ozla's first two Queen Wives died during labor along with unborn male heirs. It has been said, the sheer virility of the Old Lion is a curse and that no woman in all of Kaztani could bear the Old Lion an heir.
 
 Within months of the wedding, the news of the Queen Wife’s pregnancy has spread through the vast city-state of Kaztani. As the birth ceremony grew closer, many worried for the Queen Wife. Would she survive and bear a male heir, or would she suffer the same fate as the two previous Queen Wives, and black smoke drift out of the small pipe chimney of the royal birthing chambers as it has on two occasions.
 
@@ -26,6 +26,8 @@ Finally King Ozla, steps out on the royal balcony that overlooks the citizen squ
 Slowly the Azure smoke is mixed with and replaced by Black smoke. 
 Anahita, the Queen Wife has not survived the birth of her three sons.
 
+rumor has it the the third son was the delivery that caused the Queen Wife's death.
+
 King Ozla, retreats into the Royal chambers, clearly exhausted and distraught. 
 
 For three weeks there is little news from the Old Lion or his court. Rumors abound as well as both fear and hope. Trying times in the history of the Great City-State.
@@ -43,6 +45,15 @@ King Qzla declares the Queen Daughter to be the Last Queen of Kaztani.
 The three male heirs will each be given the Title of "Crown of Kaztani" and upon the Old Lion's death, The Queen Daughter and the Three Crowns will each inherent a section of the city to rule over.
 The ruling power will be shared amongst the Old Lion’s four children. 
 
+The Queen Daughter "The Last Queen" : Beautiful, Intelligent, Beloved by all in the empire, Fair and Just. 
+
+The First Born : The Crown Lion. Strong, Forceful. House Lion controls the military might of the empire abroad, and the largest military within the city walls, alomst 2 times as strong as the other three houses combined.
+
+The Second Born : The Crown Jackel. Charasmitc, Loyal. House Jackel controls most of the commerce and trade abroad. 
+
+The Third Born : The Serpent Crown. Cunning, Ruthless, weak, fragle, small, deformed and blind. House Serpent controls the black arts of magic.
+
+
 The Queen Daughter (aka The Last Queen) with have two votes.
 
 Each of the Three Crowns will have one vote.
@@ -51,7 +62,7 @@ The Queen Daughter and her court will forever have free passage through out the 
 
 *** need to add more ***
 
-The game takes place in the year 968 tc.
+The game takes place in the year 968 tc.(??? tc...lol)
 
 
 Copyright Hissy Cat Studio 2019
